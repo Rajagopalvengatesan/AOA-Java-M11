@@ -19,7 +19,7 @@ To Write a Java program that takes an integer input N from the user and prints a
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+
 Developed by: RAJA GOPAL V.
 Register Number: 212223240134
 
