@@ -16,8 +16,6 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
 Developed by: RAJA GOPAL V
 Register Number: 212223240134
 */
